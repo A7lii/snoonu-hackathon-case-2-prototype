@@ -32,3 +32,7 @@ This solution increases adoption without additional marketing spend.
 ```bash
 git clone https://github.com/A7lii/snoonu-hackathon-case-2-prototype.git
 cd snoonu-hackathon-case-2-prototype
+2. Install dependencies
+    npm install
+3. Start the Dev Server
+   npm run dev
