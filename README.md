@@ -1,5 +1,8 @@
 # Snoonu – Daily Planning & Multi-Vertical Adoption
 
+## Live Demo
+https://YOUR-VERCEL-LINK.vercel.app
+
 This prototype reimagines Snoonu as a daily-life planning assistant rather than a single-use food app.
 
 ## Problem
@@ -21,12 +24,11 @@ A contextual planning experience that encourages users to adopt 2+ services by:
 - Shareable daily plans
 
 ## Why This Matters
-Multi-vertical users order more, stay longer, and generate significantly higher GMV than single-vertical users. This solution increases adoption without additional marketing spend.
+Multi-vertical users order more, stay longer, and generate significantly higher GMV than single-vertical users.  
+This solution increases adoption without additional marketing spend.
 
-## Tech
-- React + Vite
-- Tailwind CSS
-- Local storage (demo-friendly)
-
-## Hackathon
-Snoonu Hackathon – Case 2
+## Run Locally
+1. Clone the repository
+```bash
+git clone https://github.com/A7lii/snoonu-hackathon-case-2-prototype.git
+cd snoonu-hackathon-case-2-prototype
