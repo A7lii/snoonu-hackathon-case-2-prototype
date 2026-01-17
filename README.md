@@ -36,3 +36,5 @@ cd snoonu-hackathon-case-2-prototype
     npm install
 3. Start the Dev Server
    npm run dev
+
+   Allow Location services for prayer times.
